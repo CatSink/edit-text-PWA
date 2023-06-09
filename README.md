@@ -1,15 +1,10 @@
 # edit-text-PWA
 
-Progressive Web Application using web-pack service worker to efficiently compile assets, babel for browser compatabilty, and indexed database that allows for uninteruppted use by utilizing client side storage.
+ A Progressive Web Application using web-pack service worker to efficiently compile assets, babel for browser compatabilty, and indexed database that allows for uninteruppted use by utilizing client side storage.
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The text editor is a great tool for day to day activities. This application is meant to be useful for those who want to continue updating their notes when internet or wifi is unavailable. Though the use of client side storage notes can be taken and updated no matter your connection status. The application is still in progress, I am learning more on debugging on this project.
 
 ## Table of Contents (Optional)
 
@@ -19,7 +14,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Click the install button to make JATE accessible offline. Then take notes anytime.
 
 ## Usage
 

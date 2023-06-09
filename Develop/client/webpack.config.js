@@ -32,10 +32,10 @@ module.exports = () => {
         background_color:'#d9b3ff', 
         theme_color:'#330099',
         start_url: './',
-        public_path:'./',
+        public_path:'/',
         icons: [
           {
-            src: path.resolve('src/images/logo.png'),
+            src: path.resolve('Develop\client\dist\assets\icons'),
             sizes:[96,128,192,256,384,512],
             destination: path.join('assets','icons'),
 
